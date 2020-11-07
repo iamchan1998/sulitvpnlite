@@ -1,0 +1,2 @@
+# sulitvpnlite
+noload
